@@ -163,3 +163,33 @@ body{
   header{
         height: 30px;
   }
+.bug{
+	text-align: center;
+}
+#error{
+background-image: url(error.jpg);
+height: 100%;
+}
+.error{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  margin-top: 150px;
+  background: #343a40;
+}
+.error1{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+ 
+  background: #343a40;
+}
+.mydich{
+  background: rgba(0.0.0.0);
+}
+.backhome{
+  text-align: center;
+}
+.btn-block{
+  font-size: 50px;
+}
