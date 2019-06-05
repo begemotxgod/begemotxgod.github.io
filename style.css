@@ -1,0 +1,165 @@
+/* Header, footer */
+
+nav {
+  background-color: rgba(0, 0, 0, 0.85)
+}
+
+/* Navbar */
+
+.navbar-brand {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-link, .dropdown-item {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+nav li {
+  padding: 0 20px;
+}
+
+nav li.active, nav li.active:before {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+#asd{
+	margin-bottom: 3px;
+}
+
+.new{
+	float: right;
+	margin-left: 260px;
+	
+}
+
+
+footer {
+
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding-top: 20px;
+    padding: 10px; /* Поля вокруг текста */
+    background: #000; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+   }
+
+   #footer_logo_steam{
+   	float:right;
+   	margin: -20px 0 0 0
+   }
+   #footer_logo{
+   	margin: -20px 0 0 0;
+   	float: left;
+   }
+  footer{
+  	text-align: center;
+
+  }
+ .dropdown-toggle:hover {
+   cursor:pointer;}
+   .rule {
+   	margin: 20px 0 0 0;
+   }
+
+
+
+.bug{
+	text-align: center;
+}
+.my_label{
+  width: 370px!important;
+  border-left: none;
+  margin-left: -10px;
+  margin-top: 7px;
+}
+
+.iconnew{
+  background: #fff;
+  border-right: none;
+  word-wrap: break-word;
+  margin-top: 7px;
+}
+.form-control:focus {
+  box-shadow: none;
+  border-color: #ced4da;
+}
+.btnsend{
+  float: left;
+  margin-top: 5px;
+}
+.sizemodal{
+  width: 425px;
+}
+.modal-body{
+  margin: 10px 0 10px 10px;
+  padding: 0;
+}
+.modal-footer{
+margin: 0 0 10px 0;
+padding: 0;
+border-top: none;
+}
+.ili{
+  margin-left: 5px;
+}
+
+.asdasd{
+  word-wrap: break-word!important;
+}
+
+.about_stroki, .postcont{
+  margin-left: 10px;
+  text-indent: 20px;
+}
+.intro_hl{
+  margin: 20px;
+  text-align: center;
+}
+.carousel{
+  
+  overflow: hidden;
+}
+body{
+  background-color: #25405a;
+  color: #66c0f4;
+}
+
+.map{
+ text-align: center;
+ margin: 5px;
+}
+.my_h4{
+  background: #1e3753;
+  height: 50px;
+  width: 998px;
+  color: #fff;
+}
+.my_info{
+      display: block;
+  margin: 40px;
+  background: #29496f;
+  width: 1000px;
+  border: 1px solid gray;
+      margin-left: auto;
+    margin-right: auto;
+  }
+  .h4_info{
+    margin: 0 10px 10px 10px;
+
+  }
+  .formazv{
+    text-align: center;
+  }
+  .infozv{
+    text-align: center;
+  }
+  .dedline{
+    width: 1280px;
+  }
+  header{
+        height: 30px;
+  }
